@@ -1,0 +1,19 @@
+[.text-center]
+= [big]**Curriculum Vitæ**
+
+== Personal Information
+include::teodor.adoc[]
+
+<<<
+
+== Professional Experience (+2.5 years)
+
+include::tricentis.adoc[]
+
+<<<
+
+include::tricentis.adoc[]
+
+<<<
+
+include::tricentis.adoc[]
