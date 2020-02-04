@@ -8,31 +8,32 @@
 
 [discrete]
 ==== _Summary_
-[underline]#Role#: Full Stack Developer +
-[underline]#Company#: Tricentis GmbH +
-[underline]#Location#: Vienna International Centre (Vienna, Austria) +
-[underline]#Duration#: 10 months (September 2017 - June 2018)
+[underline]#Role#: Back End Developer +
+[underline]#Company#: Enedis SA +
+[underline]#Location#: Le Capitole (Nanterre, France) +
+[underline]#Duration#: 10+ months (Mai 2019 - present)
 
 {empty} +
 
 [discrete]
 ==== __Technical Environment__ +
-[underline]#Platforms#: Windows 10, Azure +
-[underline]#Frameworks#: .NET 4.7, Angular 6 +
-[underline]#Languages#: C# 7.2, TypeScript 2.9 +
-[underline]#Libraries#: NUnit, Moq, Cosmos DB, Sql Server +
-[underline]#Tools#: Visual Studio 2017, Visual Studio Code, Robo 3T
+[underline]#Platforms#: Windows 10, Windows Server 2012 R2 +
+[underline]#Frameworks#: .NET 4.0 +
+[underline]#Languages#: C# 4.0, Python 3.5, DPL +
+[underline]#Libraries#: NUnit, NSubstitute, NFluent, Sqlite, Parsimonious, Mermaid, ZeroMQ +
+[underline]#Tools#: Visual Studio 2019, Rider, PyCharm, yEd, Notepad++, PowerFactory 2018
 
 {empty} +
 
 [discrete]
 ==== _Product_ +
 [underline]#Description#: +
-Tricentis Tosca is a software testing tool that is used to automate end-to-end testing software applications +
+Enedis Erable-Talon is an in-house, N-Tier application framework used to compute various electrotechnical metrics of the french electrical grid, such as calculating the cost of new connections. +
 [underline]#Responsibilities#: +
-My team and I were responsible for maintaining "thick" Tosca (Client-Server Architecture) on the one hand, and developing "thin" Tosca (Microservice Architecture) on the other hand. Strong believers in the Agile Manifesto, my team and I quickly adhered to the DevSecOps mindset by pushing the adoption of tools such as Git and VSTS (Visual Studio Team Services, now Azure DevOps) on the one side, and promoting CI (Continuous Integration) & CD (Continuous Delivery) practices along with our own-flavored CT (Continuous Testing) process (which includes Security Testing) on the other side. +
+My team and I were responsible for developing and maintaining Erable-Talon on the one hand and providing it as a service to other teams, on the other hand, to enable them to create and execute independent electrotechnical workflows. +
 [underline]#Key achievements#:  +
-Added new features to the Cloud Portal (e.g. User & Project Management, User Profile Editor) +
-Implemented Health Checks mechanisms to the microservices to augment Service Uptime +
-Increased the ease of use the application by adding various application settings (e.g. automatic authentication token storage, file upload size limit)
+Re-worked one-handedly an entire tier (Tier 0), which greatly improved the performance, stability, and reliability of the entire system +
+Wrote extensive documentation regarding ongoing integration/deployment practices +
+Refactored the Communication Module, a critical part of the system acting as a mediator between other modules +
+Created a code generation pipeline that takes functional specifications (written in mermaid as decision trees) and converts them into working C# code
 ****
