@@ -12,8 +12,4 @@ include::tricentis.adoc[]
 
 <<<
 
-include::tricentis.adoc[]
-
-<<<
-
-include::tricentis.adoc[]
+include::enedis.adoc[]
