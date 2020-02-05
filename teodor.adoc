@@ -1,0 +1,1 @@
+// image::teodor.jpg[Teodor, 150, 150, float="right"]
