@@ -1,1 +1,46 @@
 // image::teodor.jpg[Teodor, 150, 150, float="right"]
+
+[.big]
+[.text-center]
+.**Teodor Chirileanu**
+
+****
+
+{empty} +
+
+[discrete]
+====== **Abstract**
+__Software Professional, Clean Coder and +
+Merciless Refactorer, in roughly that order__ +
+
+{empty} +
+
+[discrete]
+====== **Areas of Expertise**
+
+{empty} +
+
+[discrete]
+====== **Education and Training **
+
+{empty} +
+
+[discrete]
+====== **Books Read**
+
+{empty} +
+
+[discrete]
+====== **Life Itinerary**
+Born and organically grown in Jassy (1995 - 2017) +
+Reached new heights in Vienna (2017 - 2018) +
+Achieved enlightenment in Paris (2018 - present) +
+
+{empty} +
+
+[discrete]
+====== **Contact**
+[underline]#Email#: teodorchirileanu@thecarpathiancoder.dev + 
+[underline]#Phone#: +40748333619, +33753811986
+
+****
