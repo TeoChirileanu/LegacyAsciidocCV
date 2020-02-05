@@ -18,10 +18,10 @@
 [discrete]
 ==== __Technical Environment__ +
 [underline]#Platforms#: Windows 10, Azure +
-[underline]#Frameworks#: .NET 4.7, Angular 6 +
+[underline]#Frameworks#: .NET 4.7, ASP.NET, Angular 6 +
 [underline]#Languages#: C# 7.2, TypeScript 2.9 +
 [underline]#Libraries#: NUnit, Moq, Cosmos DB, Sql Server +
-[underline]#Tools#: Visual Studio 2017, Visual Studio Code, Robo 3T
+[underline]#Tools#: Visual Studio 2017, Visual Studio Code, Robo 3T, Swagger
 
 {empty} +
 
