@@ -6,10 +6,10 @@
 
 ****
 
-[discrete]
-====== **Abstract**
 __Software Professional, Clean Coder and +
 Merciless Refactorer, in roughly that order__ +
+
+{empty} +
 
 [discrete]
 ====== **Technical Proficiencies**
@@ -26,7 +26,7 @@ Personal: https://thecarpathiancoder.dev/ (in development) +
 Professional: https://teochirileanu.github.io/
 
 [discrete]
-====== **Blogs**
+====== **Repos**
 https://github.com/TeoChirileanu & https://dev.azure.com/TheCarpathianCoder/
 
 [discrete]
@@ -52,11 +52,7 @@ Clean Code, The Clean Coder, Clean Architecture, Clean Agile, +
 Elements of Reusable Object-Oriented Software (GOF Design Patterns), The Art of Unit Testing, +
 Working Efficiently with Legacy Code, C# in Depth (4th Edition), Extreme Programming Explained, +
 Scrum and XP from the Trenches, Daily Design Pattern, Test Driven Development by Example, +
-The Pragmatic Programmer (plus the 20th Anniversary), Refactoring (plus the 2nd edition)
+The Pragmatic Programmer (plus the 20th Anniversary [ongoing]), Refactoring (plus the 2nd edition)
 
-[discrete]
-====== **Contact**
-[underline]#Email#: teodorchirileanu@thecarpathiancoder.dev + 
-[underline]#Phone#: +40748333619 | +33753811986
 
 ****
