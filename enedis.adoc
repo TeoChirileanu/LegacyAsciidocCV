@@ -9,7 +9,7 @@
 [discrete]
 ==== _Summary_
 [underline]#Role#: Back End Developer +
-[underline]#Company#: Enedis SA +
+[underline]#Company#: Enedis SA (Electricité de France) +
 [underline]#Location#: Le Capitole (Nanterre, France) +
 [underline]#Duration#: 10+ months (Mai 2019 - present)
 
