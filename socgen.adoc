@@ -1,0 +1,38 @@
+[.big]
+[.text-center]
+.[underline]#**__Société Générale Experience__**#
+
+****
+
+{empty} +
+
+[discrete]
+==== _Summary_
+[underline]#Role#: Full Stack Developer +
+[underline]#Company#: Société Générale SA - CIB (Corporate & Investment Banking) +
+[underline]#Location#: Tours Société Générale (La Défense, France) +
+[underline]#Duration#: 10 months (July 2018 - Mai 2019)
+
+{empty} +
+
+[discrete]
+==== __Technical Environment__ +
+[underline]#Platforms#: Windows 10, Windows Server 2016 +
+[underline]#Frameworks#: .NET 4.5, Angular 7 +
+[underline]#Languages#: C# 5.0, TypeScript 3.7, PowerShell 5.1 +
+[underline]#Libraries#: NUnit, NSubstitute, NInject, SQL Server, ZeroMQ, ELK +
+[underline]#Tools#: Visual Studio 2017/2019, Visual Studio Code, Cucumber, TeamCity 2008/2018, XL Deploy
+
+{empty} +
+
+[discrete]
+==== _Product_ +
+[underline]#Description#: +
+LiqOr is an internal financial application responsible for calculating various liquidity risk-based metrics and generating afferent reports demanded by BDF (Bank of France) on the one hand and by BCE (European Central Bank) on the other hand +
+[underline]#Responsibilities#: +
+ +
+[underline]#Key achievements#:  +
+ +
+ +
+
+****
