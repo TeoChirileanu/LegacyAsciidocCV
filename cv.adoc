@@ -12,4 +12,8 @@ include::tricentis.adoc[]
 
 <<<
 
+include::socgen.adoc[]
+
+<<<
+
 include::enedis.adoc[]
