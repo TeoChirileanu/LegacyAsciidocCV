@@ -19,18 +19,21 @@
 ==== __Technical Environment__ +
 [underline]#Platforms#: Windows 10, Azure +
 [underline]#Frameworks#: .NET 4.7, ASP.NET, Angular 6 +
-[underline]#Languages#: C# 7.2, TypeScript 2.9 +
+[underline]#Languages#: C# 7.2, TypeScript 2.9, TQL (Tosca Language Query) +
 [underline]#Libraries#: NUnit, Moq, Cosmos DB, Sql Server +
-[underline]#Tools#: Visual Studio 2017, Visual Studio Code, Robo 3T, Swagger
+[underline]#Tools#: Visual Studio 2017, Visual Studio Code, Robo 3T, Swagger, Tosca Commander
 
 {empty} +
 
 [discrete]
 ==== _Product_ +
+
 [underline]#Description#: +
 Tricentis Tosca is a software testing tool that is used to automate end-to-end testing software applications +
+
 [underline]#Responsibilities#: +
 My team and I were responsible for maintaining "thick" Tosca (Client-Server Architecture) on the one hand, and developing "thin" Tosca (Microservice Architecture) on the other hand. Strong believers in the Agile Manifesto, my team and I quickly adhered to the DevSecOps mindset by pushing the adoption of tools such as Git and VSTS (Visual Studio Team Services, now Azure DevOps) on the one side, and promoting CI (Continuous Integration) & CD (Continuous Delivery) practices along with our own-flavored CT (Continuous Testing) process (which includes Security Testing) on the other side. +
+
 [underline]#Key achievements#:  +
 Added new features to the Cloud Portal (e.g. User & Project Management, User Profile Editor) +
 Implemented Health Checks mechanisms to the microservices to augment Service Uptime +
