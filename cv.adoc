@@ -17,3 +17,9 @@ include::socgen.adoc[]
 <<<
 
 include::enedis.adoc[]
+
+<<<
+
+== Other Information
+
+include::misc.adoc[]

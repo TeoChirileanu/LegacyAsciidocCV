@@ -17,9 +17,9 @@
 
 [discrete]
 ==== __Technical Environment__ +
-[underline]#Platforms#: Windows 10, Windows Server 2016 +
-[underline]#Frameworks#: .NET 4.5, Angular 7 +
-[underline]#Languages#: C# 5.0, TypeScript 3.7, PowerShell 5.1 +
+[underline]#Platforms#: Windows 7/10, Windows Server 2016 +
+[underline]#Frameworks#: .NET 4.5, Angular 7, SSIS (SQL Server Integration Services) +
+[underline]#Languages#: C# 5.0, TypeScript 3.7, PowerShell 5.1, T-SQL +
 [underline]#Libraries#: NUnit, NSubstitute, NInject, SQL Server, ZeroMQ, ELK +
 [underline]#Tools#: Visual Studio 2017/2019, Visual Studio Code, Cucumber, TeamCity 2008/2018, XL Deploy
 
@@ -28,11 +28,13 @@
 [discrete]
 ==== _Product_ +
 [underline]#Description#: +
-LiqOr is an internal financial application responsible for calculating various liquidity risk-based metrics and generating afferent reports demanded by BDF (Bank of France) on the one hand and by BCE (European Central Bank) on the other hand +
+Liqor is an internal financial application responsible for calculating various liquidity risk-based metrics and generating afferent reports demanded by BDF (Bank of France) on the one hand and by BCE (European Central Bank) on the other hand +
 [underline]#Responsibilities#: +
- +
+For the first six months, I was part of the team responsible for ensuring that the production environment is up & running on the one hand, and developping a GUI to visualize the production process on the other hand. For the last 4 months I joined the team in charge with implementing new liquidity computation metrics (Basel III norms), as well as rewriting certain SSIS scripts into C# +
 [underline]#Key achievements#:  +
- +
- +
+Wrote a custom XML parser that reduced threefold the time required to integrate a custom data source +
+Rewrote and optimized two dtsx scripts (from SQL to C#), improving performance by 35% +
+Single-handedly refactored/rewrote the CI pipeline enabling the migration from TeamCity 2008 to TeamCity 2018, as well as enabling the CD pipeline to the project. Overall, the performance has been improved by an order of magnitude (from ~120 minutes to ~13 minutes) +
+Taught and mentored my colleagues on coding practices, software development processes etc.
 
 ****

@@ -1,5 +1,3 @@
-// image::teodor.jpg[Teodor, 150, 150, float="right"]
-
 [.big]
 [.text-center]
 .**Teodor Chirileanu**
@@ -8,8 +6,6 @@
 
 __Software Professional, Clean Coder and +
 Merciless Refactorer, in roughly that order__ +
-
-{empty} +
 
 [discrete]
 ====== **Technical Proficiencies**
@@ -46,13 +42,14 @@ Achieved enlightenment in Paris (2018 - present) +
 ====== **Languages**
 English - Bilingual; French - Bilingual; German - Basic; Romanian - Native
 
-[discrete]
-====== **Books Read**
-Clean Code, The Clean Coder, Clean Architecture, Clean Agile, + 
-Elements of Reusable Object-Oriented Software (GOF Design Patterns), The Art of Unit Testing, +
-Working Efficiently with Legacy Code, C# in Depth (4th Edition), Extreme Programming Explained, +
-Scrum and XP from the Trenches, Daily Design Pattern, Test Driven Development by Example, +
-The Pragmatic Programmer (plus the 20th Anniversary [ongoing]), Refactoring (plus the 2nd edition)
 
+[discrete]
+====== **Contact**
+[underline]#Email:# + 
+teodorchirileanu@gmail.com | teodorchirileanu@thecarpathiancoder.dev +
+[underline]#Phone:# + 
++33 753 811 986 | +40 748 333 619 +
+[underline]#Social Media:# + 
+https://www.linkedin.com/in/teodorchirileanu/ | https://twitter.com/TChirileanu
 
 ****

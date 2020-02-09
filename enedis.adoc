@@ -35,5 +35,7 @@ My team and I were responsible for developing and maintaining Erable-Talon on th
 Re-worked one-handedly an entire tier (Tier 0), which greatly improved the performance, stability, and reliability of the entire system +
 Wrote extensive documentation regarding ongoing integration/deployment practices +
 Refactored the Communication Module, a critical part of the system acting as a mediator between other modules +
-Created a code generation pipeline that takes functional specifications (written in mermaid as decision trees) and converts them into working C# code
+Created a code generation pipeline that takes functional specifications (written in mermaid as decision trees) and converts them into working C# code +
+Taught and mentored my colleagues on best practices, processes etc.
+
 ****

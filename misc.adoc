@@ -1,0 +1,15 @@
+[.big]
+[.text-center]
+.**Miscellanea**
+
+****
+
+[discrete]
+====== **Books Read**
+Clean Code, The Clean Coder, Clean Architecture, Clean Agile, Elements of Reusable Object-Oriented Software (GOF Design Patterns), The Art of Unit Testing, Working Efficiently with Legacy Code, C# in Depth (4th Edition), Extreme Programming Explained, Scrum and XP from the Trenches, Daily Design Pattern, Test Driven Development by Example, Refactoring (plus the 2nd edition), The Pragmatic Programmer (plus the 20th Anniversary [ongoing]), The Unicorn Project (ongoing)
+
+[discrete]
+====== **Hobbies**
+Music (recorder, choir), Sports (swimming, parkour), Travelling (4 continents visited)
+
+****
