@@ -4,11 +4,12 @@
 
 ****
 
+[.text-center]
 __Software Professional, Clean Coder and +
 Merciless Refactorer, in roughly that order__ +
 
 [discrete]
-====== **Technical Proficiencies**
+===== **Technical Proficiencies**
 [underline]#Platforms#: + 
 Windows/Windows Server, Linux, Mobile (Android), Cloud (Azure) +
 [underline]#Languages#: + 
@@ -17,34 +18,34 @@ C#, TypeScript, Python, PowerShell +
 Azure, .NET (Classic/Core), Angular, Xamarin, ASP.NET
 
 [discrete]
-====== **Blogs**
+===== **Blogs**
 Personal: https://thecarpathiancoder.dev/ (in development) +
 Professional: https://teochirileanu.github.io/
 
 [discrete]
-====== **Repos**
+===== **Repos**
 https://github.com/TeoChirileanu & https://dev.azure.com/TheCarpathianCoder/
 
 [discrete]
-====== **Education and Training **
+===== **Education and Training **
 [underline]#Education#: +
 Bachelor of Computer Science from "Alexandru Ioan Cuza" University (2017) + 
 [underline]#Training/Certifications#: +
 ISTQB Certified Tester, W3Schools Certified SQL Developer, Professional Scrum Developer
 
 [discrete]
-====== **Life Itinerary**
+===== **Life Itinerary**
 Born and organically grown in Jassy (1995 - 2017) +
 Reached new heights in Vienna (2017 - 2018) +
 Achieved enlightenment in Paris (2018 - present) +
 
 [discrete]
-====== **Languages**
+===== **Languages**
 English - Bilingual; French - Bilingual; German - Basic; Romanian - Native
 
 
 [discrete]
-====== **Contact**
+===== **Contact**
 [underline]#Email:# + 
 teodorchirileanu@gmail.com | teodorchirileanu@thecarpathiancoder.dev +
 [underline]#Phone:# + 
